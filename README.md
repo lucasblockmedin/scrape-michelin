@@ -1,11 +1,11 @@
 # Michelin Guide Restaurant Scraper
 
-A Python script that scrapes restaurant data from the Michelin Guide website. It extracts restaurant names, addresses, ratings, cuisine types, and other details for restaurants in a specified region/region.
+A Python script that scrapes restaurant data from the Michelin Guide website. It extracts restaurant names, addresses, ratings, cuisine types, and other details for restaurants in a specified region.
 
 ## What it does
 
 This scraper:
-- Fetches restaurant listings from Michelin Guide for different rating categories (Bib Gourmand, 1 Star, 2 Stars, 3 Stars)
+- Fetches restaurant listings from Michelin Guide for different rating categories (Bib Gourmand, 1 Star, 2 Stars, 3 Stars, The Plate Michelin)
 - Extracts detailed information from each restaurant's page including:
   - Restaurant name
   - Full address
